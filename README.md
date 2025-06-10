@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Chau+Pham!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=008000&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Chau+Pham!;" />
 </h1>
 
 <h3 align="center"> Cybersecurity Professional 🔐</h3>
