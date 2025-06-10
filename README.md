@@ -18,7 +18,8 @@ I am passionate about solving complex cybersecurity challenges with hands-on exp
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ChauPham-security/Threat-Hunting-Scenario-Tor/tree/main)**
-- **[Threat Hunting Incident: Devices Accidentally Exposed to the Internet](https://github.com/ChauPham-security/Devices-Accidentally-Exposed-to-the-Internet/tree/main)**
+- **[Threat Hunting Incident 1: Devices Accidentally Exposed to the Internet](https://github.com/ChauPham-security/Devices-Accidentally-Exposed-to-the-Internet/tree/main)**
+- **[Threat Hunting Incident 2: Sudden Network Slowdowns](https://github.com/ChauPham-security/Sudden-Network-Slowdowns/blob/main/README.md)**
 
 <hr/>
 
